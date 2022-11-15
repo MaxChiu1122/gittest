@@ -1,1 +1,1 @@
-\int x+y+a dx = ?
+\int x+y+a dx = ? Ans:
