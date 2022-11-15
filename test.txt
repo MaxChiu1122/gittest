@@ -1,1 +1,1 @@
-\int x dx
+\int x+y dx
